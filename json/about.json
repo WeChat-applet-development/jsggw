@@ -1,0 +1,14 @@
+﻿{
+  "status": "ok",
+  "site": {
+    "name": "锦尚钢管舞",
+    "url": "http://localhost:8008/mapi_v1",
+    "host": "江西省鹰潭市锦尚钢管舞",
+    "logo": "http://localhost:8008/files/system/mobile_picture1503763217.png",
+    "splashs": [],
+    "apiVersionRange": {
+      "min": "1.0.0",
+      "max": "2.3.2"
+    }
+  }
+}

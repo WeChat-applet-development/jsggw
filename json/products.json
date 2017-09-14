@@ -1,0 +1,331 @@
+﻿{
+  "status": "ok",
+  "count": 10,
+  "total": "5",
+  "start": 0,
+  "limit": 10,
+  "posts": [
+    {
+      "id": "5",
+      "title": "钢管舞：厦门-莫斯科首次开通中欧班列",
+      "subtitle": "央视网消息（新闻联播）：我国厦门至俄罗斯首都莫斯科的中欧班列8月25日开通，这标志着我国与金砖国家又多了一条便捷的贸易通道。",
+      "status": "published",
+      "type": "normal",
+      "maxStudentNum": "0",
+      "price": "0.00",
+      "originPrice": "0.00",
+      "coinPrice": "0.00",
+      "originCoinPrice": "0.00",
+      "expiryDay": "0",
+      "showStudentNumType": "opened",
+      "serializeMode": "none",
+      "income": "0.00",
+      "lessonNum": "9",
+      "giveCredit": "0",
+      "rating": "5",
+      "ratingNum": "1",
+      "vipLevelId": "0",
+      "categoryId": "1",
+      "tags": [
+        "1"
+      ],
+      "smallPicture": "http://localhost:8008/files/default/2017/08-27/01102516ae4f686121.jpg?5.5.6",
+      "middlePicture": "http://localhost:8008/files/default/2017/08-27/011025162d65917504.jpg?5.5.6",
+      "largePicture": "http://localhost:8008/files/default/2017/08-27/011025160654092302.jpg?5.5.6",
+      "about": "<p><strong>相关稿件</strong></p>\r\n\r\n<p><strong>央视网消息</strong>（新闻联播）：我国厦门至俄罗斯首都莫斯科的中欧班列8月25日开通，这标志着我国与金砖国家又多了一条便捷的贸易通道。班列从我国厦门出发途经二连浩特、蒙古国扎门乌德后抵达俄罗斯莫斯科沃尔西诺，全程9960公里，全程运行约13天。</p>\r\n\r\n<p>海关统计显示，仅今年前7个月，厦门市对金砖国家进出口265.3亿元人民币，同比增长45.6%，其中对俄罗斯进出口53.5亿元人民币，劲增53.1%。</p>\r\n\r\n<p>厦门至俄罗斯班列开通后，将进一步扩大厦门及周边地区对俄罗斯的进出口贸易，同时也将进一步紧密我国与金砖国家的经贸往来。据海关统计，上半年我国自金砖国家进口超过701.9亿美元，增速达33.6%，高于同期外贸进口增速14.7个百分点。</p>\r\n",
+      "goals": [
+        "火车"
+      ],
+      "audiences": [
+        "大众"
+      ],
+      "recommended": "1",
+      "recommendedSeq": "0",
+      "recommendedTime": "1503899388",
+      "locationId": "0",
+      "address": "",
+      "studentNum": "1",
+      "hitNum": "28",
+      "userId": "1",
+      "discountId": "0",
+      "discount": "10.00",
+      "deadlineNotify": "none",
+      "daysOfNotifyBeforeDeadline": "0",
+      "useInClassroom": "single",
+      "watchLimit": "0",
+      "singleBuy": "1",
+      "createdTime": "1503767276",
+      "freeStartTime": "0",
+      "freeEndTime": "0",
+      "approval": "0",
+      "teachers": [
+        {
+          "id": "1",
+          "nickname": "admin",
+          "title": "研发主管",
+          "avatar": "http://localhost:8008/files/default/2017/08-27/0025222461fb904254.png?5.5.6"
+        },
+        {
+          "id": "3",
+          "nickname": "test1",
+          "title": "",
+          "avatar": "http://localhost:8008/assets/img/default/avatar.png?5.5.6"
+        },
+        {
+          "id": "4",
+          "nickname": "test2",
+          "title": "",
+          "avatar": "http://localhost:8008/assets/img/default/avatar.png?5.5.6"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "title": "钢管舞：《焦点访谈》 20170826 砥砺奋进的五年：生命禁区的绽放",
+      "subtitle": "央视网消息（焦点访谈）：一个多月前，在波兰克拉科夫举行的第41届世界遗产大会上，世界遗产委员会一致同意",
+      "status": "published",
+      "type": "normal",
+      "maxStudentNum": "0",
+      "price": "0.00",
+      "originPrice": "0.00",
+      "coinPrice": "0.00",
+      "originCoinPrice": "0.00",
+      "expiryDay": "0",
+      "showStudentNumType": "opened",
+      "serializeMode": "none",
+      "income": "0.00",
+      "lessonNum": "18",
+      "giveCredit": "0",
+      "rating": "0",
+      "ratingNum": "0",
+      "vipLevelId": "0",
+      "categoryId": "1",
+      "tags": [
+        "1"
+      ],
+      "smallPicture": "http://localhost:8008/files/default/2017/08-27/01033464cbd4869514.jpg?5.5.6",
+      "middlePicture": "http://localhost:8008/files/default/2017/08-27/01033464a0db644387.jpg?5.5.6",
+      "largePicture": "http://localhost:8008/files/default/2017/08-27/0103346475e2682431.jpg?5.5.6",
+      "about": "<p><strong>相关稿件</strong></p>\r\n\r\n<p><strong>央视网消息</strong>（焦点访谈）：一个多月前，在波兰克拉科夫举行的第41届世界遗产大会上，世界遗产委员会一致同意，把中国青海可可西里列入《世界遗产名录》，可可西里就此成为了中国第51处世界遗产。为什么可可西里能申遗成功？这是因为可可西里具备两项申遗条件：一是顶级自然现象或者具有绝佳自然美景和美学价值的地区；二是最重要的在地保护生物多样性的自然栖息地，包括从科学和保护角度看具有突出普遍价值的濒危物种栖息地。世界自然保护联盟认为，可可西里符合自然遗产的这两项标准，并具有较高的完整性、真实性，保护管理整体状况良好，所以可可西里成功入列。也就是说，可可西里申遗的成功不仅是因为它独有的自然环境，也是因为成功的生态保护。二十多年来，在这片平均海拔超过4500米的高原上，面对恶劣的自然环境，一代又一代守护者，用生命守护着这片神奇的土地。</p>\r\n\r\n<p>现在正是藏羚羊迁徙的时节，在青海省可可西里自然保护区五道梁保护站，几只头羊带领着几百头藏羚羊，小心翼翼试探着通过青藏公路。</p>\r\n\r\n<p>每年的四五月份，大批的藏羚羊都会从西藏羌塘、新疆阿尔金山等地，迁徙几百公里，来到可可西里的卓乃湖和太阳湖等地产羔，产完羔，七八月份又会迁徙回到原来的栖息地。</p>\r\n\r\n<p>为了让这些藏羚羊安全回家，可可西里自然保护区五道梁保护站的巡山队员们，早早将过往的车辆拦下了，当起了“藏羚羊交警”，等候藏羚羊群通过。“今天早上我们6点开始起来，天一亮就害怕它们要过来，所以就观察着一直到晚上，”可可西里自然保护区五道梁保护站副站长孟克说，“半夜我们有些时候也在观察。” </p>\r\n\r\n<p>只要有藏羚羊群聚集，巡山队员们都会拦截车辆，留出迁徙通道，而且他们还会统计藏羚羊的数量。</p>\r\n\r\n<p>几经试探，藏羚羊群终于通过了公路。孟克介绍：“去年我们迁徙的藏羚羊的数据是4300多只，今年统计到的是4457只。” </p>\r\n\r\n<p>藏羚羊是可可西里自然保护区的标志性物种，它的多少直接反映出可可西里的生态是否健康。</p>\r\n\r\n<p>可可西里保护区位于青海玉树藏族自治州西北部，保护区总面积4.5万多平方公里，比海南省还要大1万平方公里。境内平均海拔4600米以上，最高处可达6860米以上。可可西里自然保护区是我国目前建立的面积最大、海拔最高、野生动植物资源最丰富的国家级自然保护区之一。</p>\r\n\r\n<p>“这个地区是我们国家乃至东南亚的水源地或者叫中华水塔，大江大河的发源地，”中国科学院成都生物研究所所长赵新全说，“青藏高原其实对整个东南亚包括我们国家整个气候变化非常敏感，同时它也会影响到区域的气候变化。”</p>\r\n\r\n<p>可可西里独特的地理和气候条件孕育了独特的生物多样性，是大量高原特有动植物的重要庇护所。全世界共有150种垫状植物，可可西里就有50种。可可西里一共生长着214种种子植物，其中有84种是青藏高原特有种。与之共存还有大量特有的食草哺乳动物。可可西里有74种脊椎动物，是藏羚羊、藏野牦牛、藏野驴、藏原羚、狼和棕熊的乐园。赵新全说，这个地区世界上海拔最高，号称第三极，它形成的物种是世界上独一无二的。这些物种对气候的适应，包括它抗紫外线、抗缺氧、耐寒冷都有一些特殊的基因资源，是一个非常宝贵的资源库。</p>\r\n\r\n<p>可可西里能够拥有今天这样好的生态环境，来之不易。上世纪80年代可可西里发现了金矿，淘金者疯狂涌来。当时，还有一种名叫“沙图什”的披肩，它的原材料来自于国家一级保护动物藏羚羊。可可西里大量藏羚羊被残酷猎杀，最少时剩下不足2万头，可可西里脆弱的高寒荒漠和高原湿地生态系统遭到了严重破坏。原治多县西部工委巡山队员谢周回忆：“场景确实惨不忍睹，没有办法说……有些小藏羚羊有些饿死了，有些是快断气的，有些小藏羚羊趴在已经被扒皮的母羊身上找奶吃。”</p>\r\n\r\n<p>1992年，时任玉树州治多县委副书记的杰桑·索南达杰，组织成立了治多县西部工作委员会，并担任西部工委书记。西部工委在条件异常艰苦、装备十分简陋的情况下，开展巡山，抓捕盗猎分子，有力打击了盗猎、盗采违法犯罪。</p>\r\n\r\n<p>1994年1月18日，杰桑·索南达杰为抓捕盗猎分子牺牲，年仅40岁。一年后，索南达杰的妹夫，时任玉树州人大法制工作委员会副主任的扎巴多杰，主动要求来到可可西里。他辞去在州人大的职务，自降一级行政级别，重新组建西部工委巡山队，保护可可西里的生态环境。1998年，46岁的扎巴多杰不幸去世，他的两个儿子又追随亲人的脚步，先后来到可可西里自然保护区，加入到守护者的行列。</p>\r\n\r\n<p>1996年，可可西里被列为省级保护区，1997年又晋升为国家级保护区。可可西里自然保护区现在设置了5个保护站，配备了吉普车和冲锋枪。虽然装备好起来了，但巡山的路途还是一样的艰险，一次主力巡山行程都要几百公里，少则20天，多则30天。</p>\r\n\r\n<p>可可西里保护区平均海拔4600多米、氧气含量只有内地40%多，巡山路途中举步艰难，夏日沼泽泥泞，大河拦道；冬季冰封雪冻，哈气成霜。有时候一天只能在泥淖中前行几公里；有时候巡山队员连续几天睡不上一个囫囵觉。一次次的艰难挺进，一次次爬冰卧雪，一块干馍一口冰雪。</p>\r\n\r\n<p>从1991年到现在，二十多年来，一代又一代巡山队员，无怨无悔，用生命和汗水忠实守护着可可西里。“就两个字，坚守。”可可西里管理局局长布周说，“在他们眼里，容忍不得任何人破坏草场或者是猎杀野生动物。”</p>\r\n\r\n<p>近5年来，各级财政对可可西里自然保护区的投入达5000多万元，在政府、社会各方的不懈努力下，现在可可西里保护区内的藏羚羊已从最初的不到2万只，恢复到了6万多只。野生动物的种群数量，普遍呈稳步上升趋势。</p>\r\n\r\n<p>随着中央提出建设生态文明的要求，2015年三江源国家公园体制试点方案通过，可可西里自然保护区被包含在三江源国家公园之内。更大范围，更加严格的生态保护措施在三江源地区展开。</p>\r\n\r\n<p>由中国科学院等7个单位组成的一个考察团，正在三江源国家公园这里进行本底调查。可可西里自然保护区是无人区，而除它之外的三江源保护区域都有世代逐水而居的牧民。近年来随着全球气候变暖等因素，一些地区出现了草场退化、家畜与野生动物争食、生物链失衡等问题。中科院的这次考察就是要摸清这片区域的生态承载力，为制定政策提供依据。</p>\r\n\r\n<p>针对不同地区的不同情况，三江源国家公园采取了生态移民、设置生态管护员等政策。目前，三江源国家公园共设置了4077名生态管护员岗位，一张拥有广泛群众基础，全覆盖的管护网络正在形成。玉树藏族自治州副州长、三江源国家公园管理局副局长王湘国认为：“逐水草而居这种生活方式，是维护青藏高原生态平衡的一个重要原因，这个东西不能丢。接下来在牧民草场承包经营权不变的前提下，让他们转型以后，依赖草地、畜牧业生产的人慢慢减少，给野生动物一个更大的空间。”</p>\r\n\r\n<p>可可西里是人类最后的净土之一，有着巨大的生态价值。中国工程院曾经做过研究：三江源区生态资源存量价值高达14万亿元。可可西里申遗成功，是我国生态文明建设成果在国际社会的一次展示，是我国扎扎实实推进生态环境保护的一份答卷。同时，成功跻身世界遗产也给可可西里的保护带来了更大的责任，虽然可可西里幅员辽阔，几乎没有受到现代人类社会的冲击，但是潜在的威胁并非没有。唯有不忘初心，继续加强科学化管理，才是中国作为世界遗产大国应有的做法和态度，也才能实现申遗最重要的目的：国家所有，全民共享，世代传承。</p>\r\n",
+      "goals": [
+        "可可"
+      ],
+      "audiences": [
+        "老百姓"
+      ],
+      "recommended": "1",
+      "recommendedSeq": "1",
+      "recommendedTime": "1503899405",
+      "locationId": "0",
+      "address": "",
+      "studentNum": "1",
+      "hitNum": "11",
+      "userId": "1",
+      "discountId": "0",
+      "discount": "10.00",
+      "deadlineNotify": "none",
+      "daysOfNotifyBeforeDeadline": "0",
+      "useInClassroom": "single",
+      "watchLimit": "0",
+      "singleBuy": "1",
+      "createdTime": "1503766883",
+      "freeStartTime": "0",
+      "freeEndTime": "0",
+      "approval": "0",
+      "teachers": [
+        {
+          "id": "1",
+          "nickname": "admin",
+          "title": "研发主管",
+          "avatar": "http://localhost:8008/files/default/2017/08-27/0025222461fb904254.png?5.5.6"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "钢管舞：【砥砺奋进的五年】山西：精准发力 聚焦深度贫困",
+      "subtitle": "【砥砺奋进的五年】山西：精准发力 聚焦深度贫困",
+      "status": "published",
+      "type": "normal",
+      "maxStudentNum": "0",
+      "price": "0.00",
+      "originPrice": "0.00",
+      "coinPrice": "0.00",
+      "originCoinPrice": "0.00",
+      "expiryDay": "0",
+      "showStudentNumType": "opened",
+      "serializeMode": "none",
+      "income": "0.00",
+      "lessonNum": "4",
+      "giveCredit": "0",
+      "rating": "0",
+      "ratingNum": "0",
+      "vipLevelId": "0",
+      "categoryId": "1",
+      "tags": [
+        "1"
+      ],
+      "smallPicture": "http://localhost:8008/files/default/2017/08-27/0059368bb311509648.jpg?5.5.6",
+      "middlePicture": "http://localhost:8008/files/default/2017/08-27/0059368b8fe8837820.jpg?5.5.6",
+      "largePicture": "http://localhost:8008/files/default/2017/08-27/0059368b68d8068956.jpg?5.5.6",
+      "about": "<p><strong>相关稿件</strong></p>\r\n\r\n<p><strong>央视网消息</strong>（新闻联播）：山西目前还有58个贫困县，它们主要集中在吕梁山、太行山一带，那里深度贫困与生态脆弱相互交织。为了啃下这些“硬骨头”，山西不断完善帮扶链条，聚焦深度贫困，集中力量攻坚。</p>\r\n\r\n<p>这两天，山西岢岚县赵家洼村的扶贫工作队，正忙着给贫困户测量房屋尺寸，为扶贫搬迁做准备。到10月份，大伙儿就能住进新房。可两个多月前，这里还是另一番情景。</p>\r\n\r\n<p>赵家洼村地处吕梁山集中连片特困区，大伙儿不愿搬，说到底，是对搬出去的生活没信心。而要做通大家的工作，就得先解开这个疙瘩。今年6月21日，习近平总书记来到了赵家洼村，坐在刘福有家的炕沿儿上和老两口拉家常。贫困户搬出去以后怎么办，干什么，总书记最关心。</p>\r\n\r\n<p>在赵家洼村，当地干部为每户每人制定了搬迁后的帮扶政策。年轻的，通过就业培训，让他们有一技之长；中年人，在县城或移民安置点提供工作岗位；60岁以上的，由各级财政对他们生活进行兜底。后顾之忧解决了，大伙儿见到村干部再也不绕着走了。</p>\r\n\r\n<p>像赵家洼村这样的深度贫困自然村，山西还有3350个，涉及16.6万贫困人口，它们将分三批搬迁，在2019年年底前，全部入住新居。</p>\r\n\r\n<p>吕梁山、太行山一带生态脆弱，去年以来，山西还把造林绿化工程，交给由60%以上贫困户组成的扶贫攻坚造林专业合作社，帮助了6万多贫困劳动力人均增收万元以上。</p>\r\n\r\n<p>保护生态，让山沟沟里的脱贫有了新抓手，也让贫困户致富多了新门道。岢岚县宋家沟村，也是个移民搬迁新村，如今旅游搞得火热，游客们不光能饱览新村村貌，还能体验一把生态采摘。</p>\r\n\r\n<p>加强资金投入，今年山西共拿出中央和省级财政专项扶贫资金近12亿元，用于深度贫困县脱贫。</p>\r\n\r\n<p>加快移民搬迁，今年，全省已有近600个易地搬迁点开工建设。</p>\r\n\r\n<p>加大产业扶持，目前超八成的贫困村已有主导产业，近八成贫困户有增收项目。</p>\r\n",
+      "goals": [
+        "宣传"
+      ],
+      "audiences": [
+        "大众"
+      ],
+      "recommended": "1",
+      "recommendedSeq": "2",
+      "recommendedTime": "1503899416",
+      "locationId": "0",
+      "address": "",
+      "studentNum": "1",
+      "hitNum": "3",
+      "userId": "1",
+      "discountId": "0",
+      "discount": "10.00",
+      "deadlineNotify": "none",
+      "daysOfNotifyBeforeDeadline": "0",
+      "useInClassroom": "single",
+      "watchLimit": "0",
+      "singleBuy": "1",
+      "createdTime": "1503766559",
+      "freeStartTime": "0",
+      "freeEndTime": "0",
+      "approval": "0",
+      "teachers": [
+        {
+          "id": "1",
+          "nickname": "admin",
+          "title": "研发主管",
+          "avatar": "http://localhost:8008/files/default/2017/08-27/0025222461fb904254.png?5.5.6"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "钢管舞：习近平为依法治国发动员令 看这五年最有力的表现",
+      "subtitle": "习近平为依法治国发动员令 看这五年最有力的表现",
+      "status": "published",
+      "type": "normal",
+      "maxStudentNum": "0",
+      "price": "0.00",
+      "originPrice": "0.00",
+      "coinPrice": "0.00",
+      "originCoinPrice": "0.00",
+      "expiryDay": "0",
+      "showStudentNumType": "opened",
+      "serializeMode": "serialize",
+      "income": "0.00",
+      "lessonNum": "2",
+      "giveCredit": "0",
+      "rating": "0",
+      "ratingNum": "0",
+      "vipLevelId": "0",
+      "categoryId": "1",
+      "tags": [
+        "1"
+      ],
+      "smallPicture": "http://localhost:8008/files/default/2017/08-27/005023f29859452355.jpg?5.5.6",
+      "middlePicture": "http://localhost:8008/files/default/2017/08-27/005023f1fffe780959.jpg?5.5.6",
+      "largePicture": "http://localhost:8008/files/default/2017/08-27/005023f1d8ee768360.jpg?5.5.6",
+      "about": "<p> </p>\r\n\r\n<p>　　<strong>央视网消息：</strong>央视六集政论专题片《法治中国》近日热播，全面总结展示全面依法治国的历史性变革和辉煌成就。</p>\r\n\r\n<p>　　中国人民在中国共产党领导下，以震撼世界的姿态大踏步行进民族复兴的步伐。时至今日，全面建成小康社会指日可待，我们比近代以来任何时候都更接近中华民族伟大复兴这一几代人梦寐以求的奋斗目标。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"\" src=\"http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/08/24/2017082409113270503.jpg\" width=\"500\" /></p>\r\n\r\n<p>　　法治，就是用法律的准绳去衡量、规范、引导社会生活。一个现代国家，必须是一个法治国家；国家要走向现代化，必须走向法治化。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"\" src=\"http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/08/24/2017082409114546851.jpg\" width=\"500\" /></p>\r\n\r\n<p>　　2014年10月23日 北京 党的十八届四中全会第二次全体会议</p>\r\n\r\n<p>　　习近平总书记强调，人无远虑，必有近忧。全面建成小康社会之后路该怎么走？如何跳出“历史周期率”、实现长期执政？如何实现党和国家长治久安？这些都是需要我们深入思考的重大问题。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"\" src=\"http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/08/24/2017082409115734925.jpg\" width=\"500\" /></p>\r\n\r\n<p>　　党的领袖对人民作出了庄严承诺，人民对党中央寄予无限希望。</p>\r\n\r\n<p>　　大国治理，机杼万端。无论是带领一个县、谋划一个省，还是治理一个13亿多人口的大国，在习近平总书记关于治国理政的深邃思考和不懈奋斗中，“法治”始终是令人瞩目的关键词。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"\" src=\"http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/08/24/2017082409120915829.jpg\" width=\"500\" /></p>\r\n\r\n<p>　　党的十八届四中全会决定有一条贯穿全篇的主线，这就是坚持和拓展中国特色社会主义法治道路。中国特色社会主义法治道路，是建设社会主义法治国家的唯一正确道路，为全面推进依法治国指明了正确方向。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"\" src=\"http://p1.img.cctvpic.com/photoworkspace/contentimg/2017/08/24/2017082409121621251.jpg\" width=\"500\" /></p>\r\n\r\n<p>　　国务院法制办公室 党组书记 袁曙宏</p>\r\n\r\n<p>　　党的十八大以来的这五年，是全面依法治国举措最有力最集中的五年，成就最丰硕最显著的五年，经验最丰富最系统的五年，开辟了全面依法治国的理论和实践新境界。</p>\r\n\r\n<p>　　2014年9月5日，习近平总书记在庆祝全国人民代表大会成立60周年大会上，指出国无常强，无常弱。奉法者强则国强，奉法者弱则国弱。</p>\r\n\r\n<p>　　激励着全党全国各族人民坚定信心、团结奋斗，共同建设一个充满生机、成就辉煌的法治中国！</p>\r\n",
+      "goals": [
+        "最新新闻"
+      ],
+      "audiences": [
+        "大众"
+      ],
+      "recommended": "1",
+      "recommendedSeq": "3",
+      "recommendedTime": "1503899431",
+      "locationId": "0",
+      "address": "",
+      "studentNum": "1",
+      "hitNum": "3",
+      "userId": "1",
+      "discountId": "0",
+      "discount": "10.00",
+      "deadlineNotify": "none",
+      "daysOfNotifyBeforeDeadline": "0",
+      "useInClassroom": "single",
+      "watchLimit": "0",
+      "singleBuy": "1",
+      "createdTime": "1503766117",
+      "freeStartTime": "0",
+      "freeEndTime": "0",
+      "approval": "0",
+      "teachers": [
+        {
+          "id": "1",
+          "nickname": "admin",
+          "title": "研发主管",
+          "avatar": "http://localhost:8008/files/default/2017/08-27/0025222461fb904254.png?5.5.6"
+        }
+      ]
+    },
+    {
+      "id": "1",
+      "title": "钢管舞：【本网图解】独木不成林 一图看懂习近平金砖方略",
+      "subtitle": "央视网消息：2017年，金砖国家合作正式开启第二个10年，这也是金砖合作的“中国年”。",
+      "status": "published",
+      "type": "normal",
+      "maxStudentNum": "0",
+      "price": "0.00",
+      "originPrice": "0.00",
+      "coinPrice": "0.00",
+      "originCoinPrice": "0.00",
+      "expiryDay": "0",
+      "showStudentNumType": "opened",
+      "serializeMode": "finished",
+      "income": "0.00",
+      "lessonNum": "4",
+      "giveCredit": "0",
+      "rating": "5",
+      "ratingNum": "1",
+      "vipLevelId": "0",
+      "categoryId": "1",
+      "tags": [
+        "1"
+      ],
+      "smallPicture": "http://localhost:8008/files/default/2017/08-27/00353797c9d0690250.jpg?5.5.6",
+      "middlePicture": "http://localhost:8008/files/default/2017/08-27/00353796e355451845.jpg?5.5.6",
+      "largePicture": "http://localhost:8008/files/default/2017/08-27/00353796bc44749003.jpg?5.5.6",
+      "about": "<p><strong>央视网消息：</strong>2017年，金砖国家合作正式开启第二个10年，这也是金砖合作的“中国年”。早在三年前，习近平在巴西福塔莱萨出席金砖国家领导人第六次会晤时发表讲话指出，“金砖国家资源禀赋、产业结构具有多样性和互补性，合作潜力巨大。我们应该建立更紧密经济伙伴关系，在贸易和投资领域探索建立一体化大市场，在货币金融方面构建多层次大流通，在基础设施建设领域形成陆海空大联通，在人文领域推动各国人民大交流。”近几年，金砖五国务实合作不断走深走实，并在国际上产生重要影响。</p>\r\n\r\n<p style=\"text-align:center;\"><img alt=\"1\" src=\"http://p1.img.cctvpic.com/uploadimg/2017/08/26/1503702365625877.jpg\" /></p>\r\n",
+      "goals": [
+        "长远目标"
+      ],
+      "audiences": [
+        "年轻人"
+      ],
+      "recommended": "1",
+      "recommendedSeq": "4",
+      "recommendedTime": "1503899444",
+      "locationId": "0",
+      "address": "",
+      "studentNum": "1",
+      "hitNum": "8",
+      "userId": "1",
+      "discountId": "0",
+      "discount": "10.00",
+      "deadlineNotify": "none",
+      "daysOfNotifyBeforeDeadline": "0",
+      "useInClassroom": "single",
+      "watchLimit": "0",
+      "singleBuy": "1",
+      "createdTime": "1503765024",
+      "freeStartTime": "0",
+      "freeEndTime": "0",
+      "approval": "0",
+      "teachers": [
+        {
+          "id": "1",
+          "nickname": "admin",
+          "title": "研发主管",
+          "avatar": "http://localhost:8008/files/default/2017/08-27/0025222461fb904254.png?5.5.6"
+        }
+      ]
+    }
+  ]
+}

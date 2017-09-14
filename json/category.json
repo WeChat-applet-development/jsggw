@@ -1,0 +1,75 @@
+﻿{
+  "status": "ok",
+  "posts": [
+    {
+      "id": "1",
+      "name": "钢管舞1",
+      "code": "news1",
+      "weight": "0",
+      "publishArticle": "1",
+      "seoTitle": "创业邦 商机无限",
+      "seoKeyword": "创业邦",
+      "seoDesc": "创业邦",
+      "published": "1",
+      "parentId": "0",
+      "createdTime": "1503909179",
+      "depth": 1
+    },
+    {
+      "id": "2",
+      "name": "钢管舞2",
+      "code": "news2",
+      "weight": "1",
+      "publishArticle": "1",
+      "seoTitle": "创新产品",
+      "seoKeyword": "创新产品",
+      "seoDesc": "创新产品",
+      "published": "1",
+      "parentId": "0",
+      "createdTime": "1503913136",
+      "depth": 1
+    },
+    {
+      "id": "3",
+      "name": "钢管舞3",
+      "code": "news3",
+      "weight": "2",
+      "publishArticle": "1",
+      "seoTitle": "优质项目",
+      "seoKeyword": "优质项目",
+      "seoDesc": "优质项目",
+      "published": "1",
+      "parentId": "0",
+      "createdTime": "1503913214",
+      "depth": 1
+    },
+    {
+      "id": "4",
+      "name": "钢管舞4",
+      "code": "news4",
+      "weight": "3",
+      "publishArticle": "1",
+      "seoTitle": "行业新闻",
+      "seoKeyword": "行业新闻",
+      "seoDesc": "行业新闻",
+      "published": "1",
+      "parentId": "0",
+      "createdTime": "1503913281",
+      "depth": 1
+    },
+    {
+      "id": "5",
+      "name": "钢管舞5",
+      "code": "news5",
+      "weight": "4",
+      "publishArticle": "1",
+      "seoTitle": "听大咖说",
+      "seoKeyword": "听大咖说",
+      "seoDesc": "听大咖说",
+      "published": "1",
+      "parentId": "0",
+      "createdTime": "1503928358",
+      "depth": 1
+    }
+  ]
+}
